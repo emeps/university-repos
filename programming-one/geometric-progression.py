@@ -1,0 +1,5 @@
+n = int(input('Enter a value: '))
+a1 = int(input('Enter the first term: '))
+q = int(input('Enter a reason value for PG: '))
+an = a1*((q)**(n-1))
+print(f"The umptheenth value of this geometric progression is {an}")
