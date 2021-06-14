@@ -6,8 +6,7 @@ Faça bom uso. :)
 # Lista de Atividade
 Esse repositório esta separado por disciplina, ou seja, cada pasta equivale a uma disciplina no qual contém todas as atividades desevolvidas.
 
-#### Desenvolvido em C
-<br>  
+#### Desenvolvido em C 
 
 - [Programação I](https://github.com/emeps/university-repos/tree/main/programming-one-old-course)
     - [Editor de Imagem PNM.](https://github.com/emeps/university-repos/tree/main/programming-one-old-course/fotoxop-%231)
@@ -22,7 +21,6 @@ Esse repositório esta separado por disciplina, ou seja, cada pasta equivale a u
     - [Ponteiros.](https://github.com/emeps/university-repos/tree/main/data-structure/consecutive-sum)
 
 #### Desenvolvido em Python
-<br>
 
 - [Programação Funcional](https://github.com/emeps/university-repos/tree/main/programming-one)
     - [Doação de Sangue.](https://github.com/emeps/university-repos/tree/main/programming-one/doacao-sangue)
