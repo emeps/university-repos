@@ -1,0 +1,7 @@
+Questão a ser feita até a próxima aula e apresentada nos 30 primieiros minutos: 
+
+Crie uma classe chamada Relogio com os atributos segundo, minuto e hora. A hora deverá ser configurada por dois métodos com mesmo nome: setHorario. Estes permitindo informar apenas minutos e hora, bem como, os três valores. Outro método chamado atualizaHorario deve ser implementado. Adicionalmente, crie um método chamado despertador para avisar um determinado horário. Esses métodos garantem que o relógio seja operacional. Métodos construtores devem ser implementados. 
+
+
+Sugestão:
+Crie um menu na void main de maneira a permitir o usuário Informar o horário do relógio, Mostrar o horário atualizado e Programar um despertador. Lembre-se de que após o usuário informar o horário do relógio o programa deverá ser capaz de atualizar o horário (método atualizaHorario) a cada segundo.
